@@ -56,11 +56,5 @@ bio
   <a href="mailto:email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Shad0w-B0T">Fabio</a></i></p>
