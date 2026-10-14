@@ -1,12 +1,17 @@
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=790&height=44&lines=Headline%201%20%E2%80%94%20small%20line%20under%20your%20name;Headline%202%20%E2%80%94%20optional%2C%20adds%20a%20second%20animated%20line" alt="Typing headlines" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Hey%2C%20ich%20bin%20[DEIN%20NAME]&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Kaffee%20%E2%80%A2%20Kreativit%C3%A4t&descAlignY=58&descSize=18" alt="Header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=24C6DC&center=true&vCenter=true&width=600&lines=Entwickler+aus+Leidenschaft+%F0%9F%9A%80;Baut+Dinge%2C+die+Spa%C3%9F+machen+%E2%9A%A1;Immer+am+Lernen%2C+nie+am+Ende+%F0%9F%93%9A;Lass+uns+zusammen+etwas+bauen+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=DEIN-USERNAME&label=Profil-Aufrufe&color=24c6dc&style=for-the-badge" alt="Profil-Aufrufe" />
+<img src="https://img.shields.io/github/followers/DEIN-USERNAME?style=for-the-badge&logo=github&color=302b63" alt="Follower" />
+
+</div>
 
 ---
 
