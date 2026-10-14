@@ -8,17 +8,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=790&height=44&lines=Headline%201%20%E2%80%94%20small%20line%20under%20your%20name;Headline%202%20%E2%80%94%20optional%2C%20adds%20a%20second%20animated%20line" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+---
 
-bio
+## 🖥️ `whoami`
 
-🔭 &nbsp;I'm currently working on **🔭 Currently working on — optional**  
-🌱 &nbsp;I'm currently learning **🌱 Currently learning — optional**  
-👯 &nbsp;I'm looking to collaborate on **👯 Looking to collaborate on — optional**  
-🤔 &nbsp;I'm looking for help with **🤔 Looking for help with — optional**  
-💬 &nbsp;Ask me about **💬 Ask me about — optional**  
-😄 &nbsp;Pronouns: **😄 Pronouns — optional**  
-⚡ &nbsp;Fun fact: **⚡ Fun fact — optional**
+```bash
+$ whoami
+> [DEIN NAME] aka DEIN-USERNAME
+
+$ cat about.txt
+> 📍 Standort      : [DEINE STADT], Deutschland
+> 💼 Arbeitet an   : [DEIN AKTUELLES PROJEKT]
+> 🌱 Lernt gerade  : [Rust / TypeScript / KI / ...]
+> 🎯 Ziel          : [DEIN GROSSES ZIEL]
+> ⚡ Fun Fact      : [Etwas Überraschendes über dich]
+
+$ echo $MOTTO
+> "Erst zum Laufen bringen, dann schön machen, dann schnell machen."
+
+$ ./status.sh
+> ☕ Kaffeelevel: ██████████░░ 85%   🧠 Motivation: ███████████░ 92%
+```
 
 ### 🛠️ Tech Stack
 
@@ -36,13 +46,11 @@ bio
 <!--<img src="https://skillicons.dev/icons?i=react,nodejs,flask,docker,git,linux,vscode,figma&theme=dark" alt="Tools" />-->
 <img src="https://skillicons.dev/icons?i=spring,react,docker,git,idea,vscode,graphql&theme=dark" alt="Tools" />
 
-**Datenbanken & Cloud**
+**Databases & Cloud**
 
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Databases" />
 
 </div>
-
-> 💡 Passe die Icons an: Liste unter [skillicons.dev](https://skillicons.dev) – einfach die Kürzel im `?i=`-Teil austauschen.
 
 ---
 
