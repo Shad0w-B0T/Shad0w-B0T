@@ -15,9 +15,9 @@ $ whoami
 > Fabio
 
 $ cat about.txt
-> 📍 Location            : Stuttgart, Deutschland
-> 💼 Working on          : /
-> 🌱 Currently learning  : [Rust / TypeScript / KI / ...]
+> 📍 Location            : Stuttgart, Germany
+> 💼 Working on          : tbd
+> 🌱 Currently learning  : tbd
 > 🎯 Goal                : tbd
 > ⚡ Fun Fact            : tbd
 
