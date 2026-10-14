@@ -26,9 +26,10 @@ bio
 
 <div align="center">
 
-**Sprachen**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,rust,go,bash&theme=dark" alt="Sprachen" />
+<!--<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,rust,go,bash&theme=dark" alt="Sprachen" />-->
+<img src="https://skillicons.dev/icons?i=js,ts,java&theme=dark" alt="Languages" />
 
 **Frameworks & Tools**
 
