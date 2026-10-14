@@ -29,11 +29,12 @@ bio
 **Languages**
 
 <!--<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,rust,go,bash&theme=dark" alt="Sprachen" />-->
-<img src="https://skillicons.dev/icons?i=js,ts,java&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,ts&theme=dark" alt="Languages" />
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,docker,git,linux,vscode,figma&theme=dark" alt="Tools" />
+<!--<img src="https://skillicons.dev/icons?i=react,nodejs,flask,docker,git,linux,vscode,figma&theme=dark" alt="Tools" />-->
+<img src="https://skillicons.dev/icons?i=react,docker,git,vscode,intellij&theme=dark" alt="Tools" />
 
 **Datenbanken & Cloud**
 
