@@ -8,9 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=DEIN-USERNAME&label=Profil-Aufrufe&color=24c6dc&style=for-the-badge" alt="Profil-Aufrufe" />
-<img src="https://img.shields.io/github/followers/DEIN-USERNAME?style=for-the-badge&logo=github&color=302b63" alt="Follower" />
-
 </div>
 
 ---
