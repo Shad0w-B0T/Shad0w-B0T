@@ -22,6 +22,28 @@ bio
 
 ### 🛠️ Tech Stack
 
+---
+
+<div align="center">
+
+**Sprachen**
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,rust,go,bash&theme=dark" alt="Sprachen" />
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,docker,git,linux,vscode,figma&theme=dark" alt="Tools" />
+
+**Datenbanken & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,firebase&theme=dark" alt="Datenbanken" />
+
+</div>
+
+> 💡 Passe die Icons an: Liste unter [skillicons.dev](https://skillicons.dev) – einfach die Kürzel im `?i=`-Teil austauschen.
+
+---
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
