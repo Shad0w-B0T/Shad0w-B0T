@@ -12,20 +12,20 @@
 
 ```bash
 $ whoami
-> [DEIN NAME] aka DEIN-USERNAME
+> Fabio
 
 $ cat about.txt
-> 📍 Standort      : [DEINE STADT], Deutschland
-> 💼 Arbeitet an   : [DEIN AKTUELLES PROJEKT]
-> 🌱 Lernt gerade  : [Rust / TypeScript / KI / ...]
-> 🎯 Ziel          : [DEIN GROSSES ZIEL]
-> ⚡ Fun Fact      : [Etwas Überraschendes über dich]
+> 📍 Location            : Stuttgart, Deutschland
+> 💼 Working on          : /
+> 🌱 Currently learning  : [Rust / TypeScript / KI / ...]
+> 🎯 Goal                : tbd
+> ⚡ Fun Fact            : tbd
 
 $ echo $MOTTO
-> "Erst zum Laufen bringen, dann schön machen, dann schnell machen."
+> "First, get it up and running, then make it look good, then make it fast."
 
 $ ./status.sh
-> ☕ Kaffeelevel: ██████████░░ 85%   🧠 Motivation: ███████████░ 92%
+> ☕ Coffee Level: ██████████░░ 85%   🧠 Motivation: ███████████░ 92%
 ```
 
 ---
