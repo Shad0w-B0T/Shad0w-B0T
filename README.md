@@ -31,10 +31,8 @@ $ ./status.sh
 ---
 
 
-
 ## 🛠️ Tech Stack
 
----
 
 <div align="center">
 
