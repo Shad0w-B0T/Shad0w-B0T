@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=24C6DC&center=true&vCenter=true&width=600&lines=Entwickler+aus+Leidenschaft+%F0%9F%9A%80;Baut+Dinge%2C+die+Spa%C3%9F+machen+%E2%9A%A1;Immer+am+Lernen%2C+nie+am+Ende+%F0%9F%93%9A;Lass+uns+zusammen+etwas+bauen+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
-<br/>
-
 </div>
 
 ---
