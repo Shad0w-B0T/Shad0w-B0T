@@ -16,10 +16,10 @@ $ whoami
 
 $ cat about.txt
 > 📍 Location            : Stuttgart, Germany
-> 💼 Working on          : tbd
-> 🌱 Currently learning  : tbd
-> 🎯 Goal                : tbd
-> ⚡ Fun Fact            : tbd
+> 💼 Working on          : Building a personal RAG-based AI Assistant
+> 🌱 Currently learning  : Kubernetes
+># 🎯 Goal                : 
+> ⚡ Fun Fact            : A ☁️ can weigh more than a million tons.
 
 $ echo $MOTTO
 > "First, get it up and running, then make it look good, then make it fast."
@@ -70,7 +70,7 @@ $ ./status.sh
 
 ```text
 ┌──────────────────────────────────────────────┐
-│  while (alive) { eat(); sleep(); code(); }   │
+│  while (alive) { eat(); code(); sleep(); }   │
 └──────────────────────────────────────────────┘
 ```
 
