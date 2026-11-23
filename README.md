@@ -18,7 +18,7 @@ $ cat about.txt
 > 📍 Location            : Stuttgart, Germany
 > 💼 Working on          : Building a personal RAG-based AI Assistant
 > 🌱 Currently learning  : Kubernetes
-># 🎯 Goal                : 
+#> 🎯 Goal                : 
 > ⚡ Fun Fact            : A ☁️ can weigh more than a million tons.
 
 $ echo $MOTTO
